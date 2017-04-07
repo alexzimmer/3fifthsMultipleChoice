@@ -44,14 +44,18 @@ function keyPressed () {
             end = true;
          }
         // B chosen
-        if (keyCode === 66) {
+        else if (keyCode === 66) {
             currentImage = lose;
             end = true;
         } 
         // C chosen
-        if (keyCode === 67) {
+        else if (keyCode === 67) {
             currentImage = lose;
             end = true;
+        }
+        else {
+            currentImage = question;
+            end = false;
         }
     }   
 }
