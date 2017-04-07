@@ -1,0 +1,489 @@
+{
+	"clips": [
+    	{
+        "id": "jer",
+        "clipname": "crisis in media",
+        "local": "assets/jer/crisisinmedia.mp4"
+ 		},
+ 	    {
+        "id": "gabe",
+        "clipname": "fucking confusing times",
+        "local": "assets/gabe/fuckingconfusingtimes.mp4"
+ 		},
+	    {
+        "id": "jer",
+        "clipname": "Media Diet",
+        "local": "assets/jer/mediadiet.mp4"
+ 		},
+        {
+        "id": "akmarat",
+        "clipname": "everyone wants to be a journalist",
+        "local": "assets/akmarat/10 years ago everyone wanted now every is journalist.mp4"
+ 		},
+        {
+        "id": "jaycee",
+        "clipname": "sware to google",
+        "local": "assets/jaycee/generation that swares to google.mp4"
+ 		},
+	    {
+        "id": "gabe",
+        "clipname": "investivative reporting",
+        "local": "assets/gabe/investigativereporting.mp4"
+ 		},
+		{
+        "id": "anz",
+        "clipname": "google views support",
+        "local": "assets/anz/googleviewsupport.mp4"
+ 		},
+        {
+        "id": "kadallah",
+        "clipname": "benefit the people",
+        "local": "assets/kadallah/work towards the benefit of the people.mp4"
+ 		},
+		{
+        "id": "anz",
+        "clipname": "more aware of horrors",
+        "local": "assets/anz/moreawareofhorrors.mp4"
+ 		},
+        {
+        "id": "manon",
+        "clipname": "they get their news from social media",
+        "local": "assets/manon/getyournewsfromsm.mp4"
+ 		},
+        {
+        "id": "akmarat",
+        "clipname": "unfortunately i use facebook",
+        "local": "assets/akmarat/i unfortunately get my news from facebook.mp4"
+ 		},
+        {
+        "id": "jaycee",
+        "clipname": "90% of news from facebook",
+        "local": "assets/jaycee/i get 90% of my information from facebook.mp4"
+ 		},
+		{
+        "id": "jer",
+        "clipname": "see eachother",
+        "local": "assets/jer/seeeachother.mp4"
+ 		},
+		{
+        "id": "jer",
+        "clipname": "soselfselecting",
+        "local": "assets/jer/soselfselecting.mp4"
+ 		},
+        {
+        "id": "kadallah",
+        "clipname": "apple news",
+        "local": "assets/kadallah/apple news filter bubble.mp4"
+ 		},
+		{
+        "id": "kadallah",
+        "clipname": "facebook$",
+        "local": "assets/kadallah/facebook trying to make money.mp4"
+ 		},
+ 		{
+        "id": "gabe",
+        "clipname": "everyone was wrong",
+        "local": "assets/gabe/everyonewaswrong.mp4"
+ 		},
+        {
+        "id": "gabe",
+        "clipname": "texas to hil",
+        "local": "assets/gabe/texastohil.mp4"
+ 		},
+		{
+        "id": "gabe",
+        "clipname": "fb got it wrong",
+        "local": "assets/gabe/facebookwrong.mp4"
+ 		},
+        {
+        "id": "jaycee",
+        "clipname": "dont trust",
+        "local": "assets/jaycee/i don't trust any one source.mp4"
+ 		},
+		{
+        "id": "akmarat",
+        "clipname": "fb is an outlet for life",
+        "local": "assets/akmarat/facebook is becoming an outlet for life.mp4"
+ 		},
+		{
+        "id": "jer",
+        "clipname": "not the whole story",
+        "local": "assets/jer/notthewholestory.mp4"
+ 		},
+        {
+        "id": "kadallah",
+        "clipname": "biases",
+        "local": "assets/kadallah/acknowledge that you have biases.mp4"
+ 		},
+        {
+        "id": "anz",
+        "clipname": "okay with racism",
+        "local": "assets/anz/okaywithracism.mp4"
+ 		},
+		{
+        "id": "gabe",
+        "clipname": "factory workers",
+        "local": "assets/gabe/factoryworkers.mp4"
+ 		},
+		{
+        "id": "gabe",
+        "clipname": "national news don't work",
+        "local": "assets/gabe/nationalnewsdontwork.mp4"
+ 		},
+        {
+        "id": "jaycee",
+        "clipname": "people listen to what they want",
+        "local": "assets/jaycee/people gravitate towards the stories they want to believe are tru.mp4"
+ 		},
+		{
+        "id": "akmarat",
+        "clipname": "all media has opinions",
+        "local": "assets/akmarat/can't think of a single media that doesn't have an opinion.mp4"
+ 		},
+        {
+        "id": "manon",
+        "clipname": "live in a bubble",
+        "local": "assets/manon/liveinabubble.mp4"
+ 		},
+        {
+        "id": "kadallah",
+        "clipname": "right and left suck",
+        "local": "assets/kadallah/right and left neglecting a need for neutrality.mp4"
+ 		},
+        {
+        "id": "jer",
+        "clipname": "two different realities",
+        "local": "assets/jer/twodifferentrealities.mp4"
+ 		},
+		{
+        "id": "jer",
+        "clipname": "no diversity",
+        "local": "assets/jer/nodiversity.mp4"
+ 		},
+		{
+        "id": "jer",
+        "clipname": "how do we have a conversation",
+        "local": "assets/jer/howdowehaveaconversation.mp4"
+ 		},
+        {
+        "id": "jaycee",
+        "clipname": "war on media",
+        "local": "assets/jaycee/ive seen war on the media.mp4"
+ 		},
+		{
+        "id": "jaycee",
+        "clipname": "media is good",
+        "local": "assets/jaycee/really powerful to have media for checks and balances.mp4"
+ 		},
+        {
+        "id": "anz",
+        "clipname": "idealogy not going",
+        "local": "assets/anz/idealogynotgoing.mp4"
+ 		},
+		{
+        "id": "anz",
+        "clipname": "fb hatred",
+        "local": "assets/anz/fbhatred.mp4"
+ 		},
+		{
+        "id": "anz",
+        "clipname": "divide grows",
+        "local": "assets/anz/dividegrows.mp4"
+ 		},
+        {
+        "id": "akmarat",
+        "clipname": "dont know what journ is",
+        "local": "assets/akmarat/i dont know what is journalism now - all opinion.mp4"
+ 		},
+		{
+        "id": "akmarat",
+        "clipname": "more comfortable",
+        "local": "assets/akmarat/more comfortable to watch content that is targeting you.mp4"
+ 		},
+        {
+        "id": "gabe",
+        "clipname": "reporters thinking now",
+        "local": "assets/gabe/reportersthinkingnow.mp4"
+ 		},
+		{
+        "id": "gabe",
+        "clipname": "media is evil",
+        "local": "assets/gabe/mediaisevil.mp4"
+ 		},
+		{
+        "id": "gabe",
+        "clipname": "reluctant to say media bad",
+        "local": "assets/gabe/reluctanttosaymediabad.mp4"
+ 		},
+        {
+        "id": "jaycee",
+        "clipname": "magnified",
+        "local": "assets/jaycee/magnified by contension.mp4"
+ 		},
+		{
+        "id": "jaycee",
+        "clipname": "millenials bullshit",
+        "local": "assets/jaycee/millenials post bullshit.mp4"
+ 		},
+        {
+        "id": "jer",
+        "clipname": "money entertainment",
+        "local": "assets/jer/moneyentertainment.mp4"
+ 		},
+		{	
+        "id": "jer",
+        "clipname": "big media issue",
+        "local": "assets/jer/bigmediaissue.mp4"
+ 		},
+        {
+        "id": "kadallah",
+        "clipname": "facebook profit",
+        "local": "assets/kadallah/facebook bottom line to make a profit.mp4"
+ 		},
+		{	
+        "id": "akmarat",
+        "clipname": "no social to all social",
+        "local": "assets/akmarat/we are the generation that has experienced no social media to now.mp4"
+ 		},
+        {
+        "id": "manon",
+        "clipname": "reading propaganda",
+        "local": "assets/manon/readingpropaganda.mp4"
+ 		},
+		{
+        "id": "manon",
+        "clipname": "fb curates feed",
+        "local": "assets/manon/fbcuratesfeed.mp4"
+ 		},
+        {
+        "id": "jaycee",
+        "clipname": "question",
+        "local": "assets/jaycee/is the center possible.mp4"
+ 		},
+		{
+        "id": "jaycee",
+        "clipname": "fb problem",
+        "local": "assets/jaycee/problem on facebook of people sharing sketchy sources.mp4"
+ 		},
+        {
+        "id": "jer",
+        "clipname": "truly impartial",
+        "local": "assets/jer/trulyimpartialcable.mp4"
+ 		},
+        {
+        "id": "kadallah",
+        "clipname": "ban hate speech",
+        "local": "assets/kadallah/if you ban hate speech from your website - no trump.mp4"
+ 		},
+        {
+        "id": "gabe",
+        "clipname": "local reporting",
+        "local": "assets/gabe/localreportingunderstand.mp4"
+ 		},
+		{
+        "id": "gabe",
+        "clipname": "24 hr news can't get",
+        "local": "assets/gabe/24hrnewscantget.mp4"
+ 		},
+ 		{
+        "id": "gabe",
+        "clipname": "come to terms with it",
+        "local": "assets/gabe/cometotermswithdigestingnews.mp4"
+ 		},
+        {
+        "id": "jaycee",
+        "clipname": "love the web",
+        "local": "assets/jaycee/internet is a good thing.mp4"
+ 		},
+ 		{
+        "id": "akmarat",
+        "clipname": "what mills want",
+        "local": "assets/akmarat/what do millenials want to see.mp4"
+ 		},
+        {
+        "id": "anz",
+        "clipname": "reliable vs bs",
+        "local": "assets/anz/reliablevsbs.mp4"
+ 		},
+ 		{
+        "id": "anz",
+        "clipname": "a lot of bickering",
+        "local": "assets/anz/alotofbickering.mp4"
+ 		},
+        {
+        "id": "jaycee",
+        "clipname": "only right",
+        "local": "assets/jaycee/don't see it on the left - only right.mp4"
+ 		},
+ 		{
+        "id": "kadallah",
+        "clipname": "more of an issue on the right",
+        "local": "assets/kadallah/more of an issue on the right - cause its lies.mp4"
+ 		},
+        {
+        "id": "jer",
+        "clipname": "facts don't matter",
+        "local": "assets/jer/factsdontmatter.mp4"
+ 		},
+		{
+        "id": "jer",
+        "clipname": "facts play a role",
+        "local": "assets/jer/factsplayarole.mp4"
+ 		},
+		{
+        "id": "jer",
+        "clipname": "my bubble best",
+        "local": "assets/jer/mybubblesthebest.mp4"
+ 		},
+        {
+        "id": "akmarat",
+        "clipname": "bullying",
+        "local": "assets/akmarat/trump is bullying the news on social media.mp4"
+ 		},
+        {
+        "id": "gabe",
+        "clipname": "missed the mark",
+        "local": "assets/gabe/missedthemark.mp4"
+ 		},
+ 		{
+        "id": "gabe",
+        "clipname": "media doing harm to us",
+        "local": "assets/gabe/mediadoingharmtous.mp4"
+ 		},
+ 		{
+        "id": "gabe",
+        "clipname": "have to report the news",
+        "local": "assets/gabe/havetoreportthenews.mp4"
+ 		},
+        {
+        "id": "jaycee",
+        "clipname": "media angle",
+        "local": "assets/jaycee/even when focusing on facts there is an angle.mp4"
+ 		},
+ 		{
+        "id": "jaycee",
+        "clipname": "people liking news",
+        "local": "assets/jaycee/people liking their news is not new.mp4"
+ 		},
+        {
+        "id": "jer",
+        "clipname": "no more descency",
+        "local": "assets/jer/nomoredescency.mp4"
+ 		},
+ 		{
+        "id": "jer",
+        "clipname": "entrentched in bubbles",
+        "local": "assets/jer/entrenchedinbubbles.mp4"
+ 		},
+        {
+        "id": "akmarat",
+        "clipname": "eyeopening",
+        "local": "assets/akmarat/seeing that was really eyeopening.mp4"
+ 		},
+        {
+        "id": "manon",
+        "clipname": "cuba grateful",
+        "local": "assets/manon/cubagrateful.mp4"
+ 		},
+ 		{
+        "id": "gabe",
+        "clipname": "1930s",
+        "local": "assets/gabe/1930s.mp4"
+ 		},
+		{
+        "id": "gabe",
+        "clipname": "confusing i guess",
+        "local": "assets/gabe/confusingiguess.mp4"
+ 		},
+		{
+        "id": "gabe",
+        "clipname": "global sense",
+        "local": "assets/gabe/globalsense.mp4"
+ 		},
+        {
+        "id": "jaycee",
+        "clipname": "what they want",
+        "local": "assets/jaycee/humans are stubborn and will see what they want.mp4"
+ 		},
+		{
+        "id": "jaycee",
+        "clipname": "diamonds",
+        "local": "assets/jaycee/there are some diamonds in the rough.mp4"
+ 		},
+        {
+        "id": "jer",
+        "clipname": "ignoring people",
+        "local": "assets/jer/ignoringpeople.mp4"
+        },  
+        {
+        "id": "kadallah",
+        "clipname": "your mind",
+        "local": "assets/kadallah/make up your mind for yourself based off of the truth.mp4"
+        },
+        {
+        "id": "anz",
+        "clipname": "understanding",
+        "local": "assets/anz/understanding.mp4"
+ 		},
+        {
+        "id": "anz",
+        "clipname": "election hype",
+        "local": "assets/anz/electionhype.mp4"
+        },
+        {
+        "id": "akmarat",
+        "clipname": "twitter rethink",
+        "local": "assets/akmarat/twitter needs to rethink their policies.mp4"
+ 		},
+        {
+        "id": "akmarat",
+        "clipname": "life hype",
+        "local": "assets/akmarat/it kind of does take over your life in a way.mp4"
+        },
+        {
+        "id": "gabe",
+        "clipname": "media archaic",
+        "local": "assets/gabe/mediaarchaic.mp4"
+ 		},
+ 		{
+        "id": "manon",
+        "clipname": "v grateful",
+        "local": "assets/manon/vgrateful.mp4"
+ 		},
+        {
+        "id": "jer",
+        "clipname": "not gonna get better",
+        "local": "assets/jer/notgonnagetbetter.mp4"
+        },
+        {
+        "id": "jer",
+        "clipname": "claasscy",
+        "local": "assets/jer/claasscy.mp4"
+ 		},
+        {
+        "id": "jaycee",
+        "clipname": "center",
+        "local": "assets/jaycee/there is no center.mp4"
+ 		},
+        {
+        "id": "akmarat",
+        "clipname": "interesting",
+        "local": "assets/akmarat/so it's interesting.mp4"
+ 		},
+        {
+        "id": "anz",
+        "clipname": "thank you",
+        "local": "assets/anz/thankyou.mp4"
+ 		},
+ 		{
+        "id": "jer",
+        "clipname": "cheers",
+        "local": "assets/jer/cheers.mp4"
+ 		},
+ 		{
+        "id": "gabe",
+        "clipname": "applause",
+        "local": "assets/gabe/applause.mp4"
+ 		}
+	]
+}
