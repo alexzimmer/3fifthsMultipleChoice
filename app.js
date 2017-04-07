@@ -34,10 +34,25 @@ image(currentImage, 0, 0);
 function keyPressed () {
     clock = millis();
     if (value === 0) {
-    currentImage = question; 
-    value = value + 1
+        // A pressed before question
+        if (keyCode === 65) {
+        currentImage = question;
+        }
+        // B pressed before question
+        if (keyCode === 66) {
+        currentImage = question;
+        }
+        // C pressed before question
+        if (keyCode === 67) {
+        currentImage = question;
+        }
+        // any other button pressed
+        currentImage = question; 
+        value = value + 1;
+        
     }
-    if (value === 1) {
+      
+    else if (value === 1) {
         // A chosen
         if (keyCode === 65) {
             currentImage = win; 
@@ -53,16 +68,27 @@ function keyPressed () {
             currentImage = lose;
             end = true;
         }
+        // nothing pressed
         else {
             currentImage = question;
             end = false;
         }
-    }   
+    }
+    // any key can be pressed to return to start
+    else if (value === 3) {
+        currentImage = opening;
+        value = 0;
+        clock = millis();
+        end = false;
+    }
 }
 
 function startOVER () {
+    value = 3;
+    // if no key is pressed automatically return to start
      if (millis() - clock > startOver) {
         value = 0;
         currentImage = opening;
+        end = false;
     }
 }
